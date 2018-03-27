@@ -24,7 +24,7 @@
 
 ## List of Helpful Reference Links
 
-* [_This is a link to the Javadoc about reference objects._] (https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html)
+* [_This is a link to the Javadoc about reference objects._](https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html)
 	
 * (https://www.geeksforgeeks.org/types-references-java/)
 	_An easy to read breakdown on the different types of reference objects._
