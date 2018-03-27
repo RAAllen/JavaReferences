@@ -25,17 +25,17 @@
 ## List of Helpful Reference Links
 
 * https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html
-	_This is a link to the Javadoc about reference objects._
+	##### _This is a link to the Javadoc about reference objects._
 * https://www.geeksforgeeks.org/types-references-java/
-	_An easy to read breakdown on the different types of reference objects._
+	##### _An easy to read breakdown on the different types of reference objects._
 * https://www.geeksforgeeks.org/garbage-collection-java/
-	_An easy to read breakdown of garbage collection._
+	##### _An easy to read breakdown of garbage collection._
 * https://dzone.com/articles/pass-by-value-vs-reference-in-java
-	_Complete and thorough breakdown of pass by reference versus pass by value._
+	##### _Complete and thorough breakdown of pass by reference versus pass by value._
 * https://dzone.com/articles/object-identity-and-equality-in-java
-	_Easy to read and comprehend breakdown on object equality._
+	##### _Easy to read and comprehend breakdown on object equality._
 * https://marcus-biel.com/hashcode-and-equals/
-	_Breakdown of using hash codes to measure object content equality._
+	##### _Breakdown of using hash codes to measure object content equality._
 
 ## Support and Contact Details
 
