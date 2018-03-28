@@ -17,11 +17,11 @@
 
 ## Program Specifications
 
-* The program will illustrate the interaction between passing by value and passing by reference.
-* The program will demonstrate the difference between comparing object identity using the "==" operator and using the .equals() method to compare the contents of an object for equality.
-* The program will indicate when a reference is no longer pointing to an object, indicating it is ready for garbage collection.
+* Illustrate the differences between passing by value and passing by reference.
+* Demonstrate the difference between comparing object identity using the "==" operator and using the .equals() method to compare the contents of an object for equality.
+* Show how we know when a reference is no longer pointing to an object, indicating it is ready for garbage collection.
 
-## Links
+## Links for Further Learning
 
 * [_Javadoc about reference objects._](https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html)
 	
