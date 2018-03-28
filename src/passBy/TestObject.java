@@ -1,4 +1,4 @@
-package javaReferences;
+package passBy;
 
 class TestObject {	
 	private String string = "The original string value.";
@@ -22,3 +22,4 @@ class TestObject {
 	}
 
 }
+

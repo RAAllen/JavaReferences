@@ -1,4 +1,4 @@
-package javaReferences;
+package passBy;
 
 class PassByValue {
 	
