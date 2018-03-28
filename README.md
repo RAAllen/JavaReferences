@@ -35,6 +35,8 @@
 * [_Object equality._](https://dzone.com/articles/object-identity-and-equality-in-java)
 	
 * [_Using hash codes to measure object content equality._](https://marcus-biel.com/hashcode-and-equals/)
+
+* [_Lifecycle of an Object._](https://dzone.com/articles/ocajp-7-object-lifecycle-java)
 	
 
 ## Support and Contact Details
