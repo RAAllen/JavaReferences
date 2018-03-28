@@ -38,7 +38,6 @@
 
 * [_Lifecycle of an Object._](https://dzone.com/articles/ocajp-7-object-lifecycle-java)
 	
-
 ## Support and Contact Details
 
 _Please contact RebeccaZarsky@gmail.com for technical questions or assistance running the program._
