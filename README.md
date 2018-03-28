@@ -17,8 +17,8 @@
 
 ## Program Specifications
 
-* The program will illustrate the interaction between references and objects, with comments on what is happening and why.
-* The program will step by step break down for a user when a reference is no longer pointing to an object, indicating it is ready for garbage collection.
+* The program will illustrate the interaction between passing by value and passing by reference.
+* The program will indicate when a reference is no longer pointing to an object, indicating it is ready for garbage collection.
 * The program will demonstrate the difference between comparing object identity comparisons using the "==" operator to compare whether two references are both pointing to the same object and using the .equals() method to compare the contents of an object for equality.
 * The program will demonstrate the difference of passing by value and passing by reference.
 
@@ -26,15 +26,15 @@
 
 * [_Javadoc about reference objects._](https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html)
 	
-* [_Different types of reference objects._](https://www.geeksforgeeks.org/types-references-java/)
+* [_Types of reference objects._](https://www.geeksforgeeks.org/types-references-java/)
 	
-* [_An easy to read breakdown of garbage collection._](https://www.geeksforgeeks.org/garbage-collection-java/)
+* [_Garbage collection._](https://www.geeksforgeeks.org/garbage-collection-java/)
 	
-* [_Complete and thorough breakdown of pass by reference versus pass by value._](https://dzone.com/articles/pass-by-value-vs-reference-in-java)
+* [_Pass by reference versus pass by value._](https://dzone.com/articles/pass-by-value-vs-reference-in-java)
 	
-* [_Easy to read and comprehend breakdown on object equality._](https://dzone.com/articles/object-identity-and-equality-in-java)
+* [_Object equality._](https://dzone.com/articles/object-identity-and-equality-in-java)
 	
-* [_Breakdown of using hash codes to measure object content equality._](https://marcus-biel.com/hashcode-and-equals/)
+* [_Using hash codes to measure object content equality._](https://marcus-biel.com/hashcode-and-equals/)
 	
 
 ## Support and Contact Details
