@@ -18,9 +18,8 @@
 ## Program Specifications
 
 * The program will illustrate the interaction between passing by value and passing by reference.
+* The program will demonstrate the difference between comparing object identity using the "==" operator and using the .equals() method to compare the contents of an object for equality.
 * The program will indicate when a reference is no longer pointing to an object, indicating it is ready for garbage collection.
-* The program will demonstrate the difference between comparing object identity comparisons using the "==" operator to compare whether two references are both pointing to the same object and using the .equals() method to compare the contents of an object for equality.
-* The program will demonstrate the difference of passing by value and passing by reference.
 
 ## Links
 
