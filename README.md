@@ -22,11 +22,11 @@
 * The program will demonstrate the difference between comparing object identity comparisons using the "==" operator to compare whether two references are both pointing to the same object and using the .equals() method to compare the contents of an object for equality.
 * The program will demonstrate the difference of passing by value and passing by reference.
 
-## List of Helpful Reference Links
+## Links
 
-* [_This is a link to the Javadoc about reference objects._](https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html)
+* [_Javadoc about reference objects._](https://docs.oracle.com/javase/7/docs/api/java/lang/ref/Reference.html)
 	
-* [_An easy to read breakdown on the different types of reference objects._](https://www.geeksforgeeks.org/types-references-java/)
+* [_Different types of reference objects._](https://www.geeksforgeeks.org/types-references-java/)
 	
 * [_An easy to read breakdown of garbage collection._](https://www.geeksforgeeks.org/garbage-collection-java/)
 	
@@ -43,7 +43,7 @@ _Please contact RebeccaZarsky@gmail.com for technical questions or assistance ru
 
 ## Technologies Used
 
-_This program utilizes Java and the Eclipse Integrated Development Environment._
+_This program utilizes Java, Atom and the Eclipse Integrated Development Environment._
 
 ## License
 
