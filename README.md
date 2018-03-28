@@ -37,7 +37,7 @@
 
 * [_Lifecycle of an Object._](https://dzone.com/articles/ocajp-7-object-lifecycle-java)
 
-*[_Great article on using different reference types. This one is for Alex._](https://medium.com/@ramtop/weak-soft-and-phantom-references-in-java-and-why-they-matter-c04bfc9dc792)
+* [_Great article on using different reference types. This one is for Alex._](https://medium.com/@ramtop/weak-soft-and-phantom-references-in-java-and-why-they-matter-c04bfc9dc792)
 	
 ## Support and Contact Details
 
